@@ -14,5 +14,5 @@ else
         GIT_COMMITTER_NAME='$name'
         GIT_COMMITTER_EMAIL='$email'
     " HEAD
-    git push origin master -f
+    git push origin main -f
 fi
